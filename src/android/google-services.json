@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "98408602627-dd0paer0mo3g7qr8hfaiu1osd908nv2h.apps.googleusercontent.com",
+          "client_id": "98408602627-0kkk9jhodf532m9d1iltem16vfu1evh1.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.marchingsoutherners.app",
-            "certificate_hash": "d86541628b4beb5e8cf853acbde73a62f6181fd2"
+            "certificate_hash": "e061ecd72af0e94dbbe54fecd6b7c0e3ac3b8808"
           }
         },
         {
@@ -47,8 +47,7 @@
               "client_id": "98408602627-j440vradm2htsrtaaj6kljrco774jo0g.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "com.marchingsoutherners.app",
-                "app_store_id": "1234567890"
+                "bundle_id": "com.marchingsoutherners.app"
               }
             }
           ]
