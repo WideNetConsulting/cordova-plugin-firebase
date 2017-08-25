@@ -40,15 +40,66 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
+              "client_id": "98408602627-j440vradm2htsrtaaj6kljrco774jo0g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.marchingsoutherners.app"
+              }
+            },
+            {
               "client_id": "98408602627-ob00sut77fqjclecjtq87lus9r6ejs79.apps.googleusercontent.com",
               "client_type": 3
-            },
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98408602627:android:143bb7fe58a5bd6e",
+        "android_client_info": {
+          "package_name": "com.jsumarchingsoutherners.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98408602627-fpu6hvs3bg364jh38p417gn5act6sugo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jsumarchingsoutherners.app",
+            "certificate_hash": "e061ecd72af0e94dbbe54fecd6b7c0e3ac3b8808"
+          }
+        },
+        {
+          "client_id": "98408602627-ob00sut77fqjclecjtq87lus9r6ejs79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoU85Y4jOgWq_Fo5tQmgGDUL-fc6gLJqY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
             {
               "client_id": "98408602627-j440vradm2htsrtaaj6kljrco774jo0g.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.marchingsoutherners.app"
               }
+            },
+            {
+              "client_id": "98408602627-ob00sut77fqjclecjtq87lus9r6ejs79.apps.googleusercontent.com",
+              "client_type": 3
             }
           ]
         },
