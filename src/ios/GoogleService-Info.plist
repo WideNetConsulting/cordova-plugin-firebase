@@ -7,36 +7,34 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>98408602627-j440vradm2htsrtaaj6kljrco774jo0g.apps.googleusercontent.com</string>
+	<string>151593668436-3tha5ihp0f8fj7i8b8f3tldjs44j0uio.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.98408602627-j440vradm2htsrtaaj6kljrco774jo0g</string>
-	<key>ANDROID_CLIENT_ID</key>
-	<string>98408602627-dd0paer0mo3g7qr8hfaiu1osd908nv2h.apps.googleusercontent.com</string>
+	<string>com.googleusercontent.apps.151593668436-3tha5ihp0f8fj7i8b8f3tldjs44j0uio</string>
 	<key>API_KEY</key>
-	<string>AIzaSyBCSaQhiXCtifenNZjRwiWXU1CjFV8X5_E</string>
+	<string>AIzaSyD87-tIxYt_jZiab2AGSMJ2ZewygV4zMdA</string>
 	<key>GCM_SENDER_ID</key>
-	<string>98408602627</string>
+	<string>151593668436</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.marchingsoutherners.app</string>
+	<string>com.bamaredelephantclub.app</string>
 	<key>PROJECT_ID</key>
-	<string>jsu-marching-southerners</string>
+	<string>bama-red-elephant-club</string>
 	<key>STORAGE_BUCKET</key>
-	<string>jsu-marching-southerners.appspot.com</string>
+	<string>bama-red-elephant-club.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
-	<false/>
+	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
 	<false/>
 	<key>IS_APPINVITE_ENABLED</key>
 	<false/>
 	<key>IS_GCM_ENABLED</key>
-	<false/>
+	<true/>
 	<key>IS_SIGNIN_ENABLED</key>
-	<false/>
+	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:98408602627:ios:b81f78eafd4f7f96</string>
+	<string>1:151593668436:ios:0cec829b803a5335</string>
 	<key>DATABASE_URL</key>
-	<string>https://jsu-marching-southerners.firebaseio.com</string>
+	<string>https://bama-red-elephant-club.firebaseio.com</string>
 </dict>
 </plist>
